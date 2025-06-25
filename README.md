@@ -1,4 +1,4 @@
-# Smart Room Monitor 🏠
+# Smart Room Monitor 🏠 (In Progress) 
 
 An Arduino-based project designed to monitor a room’s environmental and motion status using multiple sensors. Built to explore real-world embedded systems and home automation.
 
